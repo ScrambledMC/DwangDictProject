@@ -1,6 +1,5 @@
 """
 Known issues:
-Certain special characters (such as underlined characters) show up with weird symbols
 Some words don't have multiple spaces between English and Dwang, which this algorithm relies on
 -Currently those words are excluded
 
