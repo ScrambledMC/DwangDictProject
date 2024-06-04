@@ -31,8 +31,8 @@ def create_word(line):
     return entry
 
 
-with open(r"c:\Users\The mom\Downloads\new_wordlist.txt") as wordlist:
+with open(r"c:\Users\The mom\Downloads\new_wordlist.txt", encoding='utf8') as wordlist:
     for i in wordlist.readlines():
         lift.append(create_word(i))
 
-tree.write(r"c:\Users\The mom\Downloads\dwang (1).lift")
+tree.write(r"c:\Users\The mom\Downloads\dwang (1).lift", encoding='utf8')
