@@ -1,0 +1,1537 @@
+ke̱ye̱sɛgbi	body	None	None
+e̱yo̱o̱	skin (of man)	None	None
+kuŋwu	head tête	None	None
+kuŋwu	head	None	None
+ke̱pŋne̱	forehead	None	None
+anyɛse̱lɛ	face	None	None
+ke̱anyɛse̱	eye	None	None
+ke̱anyɛse̱ kuŋku	eyebrow	None	None
+ke̱anyɛse̱ fe̱ buŋsɛ	eyelid	None	None
+ke̱anyɛse̱ te̱nte̱ɛ	eyelash	None	None
+ke̱nyɛse̱	pupil (of eye)	None	None
+ko̱so̱	ear	None	None
+ke̱kpaboo	cheek	None	None
+letuu	mouth	None	None
+ke̱nɛwo̱re̱e̱	lip	None	None
+ɔdɛŋdo̱o̱	tongue	None	None
+kinyi	tooth	None	None
+ke̱kpirinyi	molar	None	None
+kaburegbi	palate	None	None
+ke̱kpekeni	jaw	None	None
+kanɛkuyase̱	chin	None	stephen’s cm is different
+ke̱ko̱nɛ	neck	None	should be ko̱ko̱nɛ
+ke̱ko̱nɛ fe̱ kate̱rɛ	nape of neck	None	None
+ɔbo̱rɛlɛ	throat	None	None
+ke̱bo̱re̱ to̱to̱e̱	voice box, larynx	None	None
+e̱mini	hair (of head)	None	should this be imini?
+e̱fu	hair (of body)	None	i think it is ifu
+lo̱	tuft, lock (of hair)	None	the consonant is labialized
+ke̱baatɛbuu	shoulder	None	None
+ke̱baatɛbuu fe̱ ke̱kasaye̱	shoulder blade	None	None
+ke̱kɛŋ	chest	None	i hear ke̱kaŋ
+ke̱nyɛpo̱o̱	breast	None	None
+kaake̱rɛlɛ	side (of body)	None	None
+osii	waist	None	None
+kapuni	navel	None	None
+ke̱tɛŋ	umbilical cord	None	None
+kaame̱nɛ	stomach (internal)	None	None
+ɔko̱o̱puni	womb	None	None
+kaate̱rɛ	back	None	None
+kaate̱rɛ to̱to̱o̱	small of back	None	None
+otuboo	buttock	None	None
+ke̱kɔɔte̱e̱	anus	None	None
+tuuri	penis	None	None
+awɛɛ	testicle	None	None
+wɔɔte̱e̱	vagina	None	None
+ke̱tɛkɛgbi	clitoris	None	None
+ke̱sɛre̱	arm	None	None
+ke̱ke̱rɛbɔɔlɛ	armpit	None	None
+kabaapo̱e̱	upper arm	None	None
+ke̱nɛŋkuŋkuŋ	elbow	None	None
+ke̱sɛre̱yi	forearm	None	None
+ke̱sɛre̱kpɔɔ	wrist	None	None
+ke̱sɛre̱	hand	None	None
+ke̱tɛkuŋ	fist	None	None
+ɔnɔkɔɔlɛ	palm (of hand)	None	None
+ke̱sɛre̱gbi	finger	None	None
+ko̱kɔtɛnini	thumb	None	None
+ke̱twɛre̱	knuckle	None	None
+ko̱kɔtɛ	fingernail	None	None
+ke̱yaa	leg	None	None
+atirii	hip	None	None
+ɔgbɛŋ	thigh	None	None
+ke̱nwunii	knee	None	None
+ke̱te̱ŋ	shin	None	None
+katwuŋbuŋ	calf of leg	None	None
+ke̱yaakpɔɔ	ankle	None	None
+ke̱yaapaapa	foot	None	None
+kanɛŋkuŋ	heel	None	None
+ke̱yaakɔɔlɛ	sole	None	None
+ke̱tɛte̱rɛyi	toe	None	None
+ke̱kasaye̱	bone	None	None
+ke̱kasaye̱lɛ fe̱ mbo	bone marrow	None	None
+akasaye̱	skeleton	None	None
+kuŋwugyɛkpɛŋ	skull	None	None
+ke̱nyɛpo̱o̱ fe̱ ke̱kasaye̱	breastbone	None	None
+kate̱rɛ fe̱ ke̱kasaye̱	spine, backbone	None	None
+kakɛŋke̱re̱ŋ	rib	None	None
+adwe̱ne̱	brain	None	None
+odoŋ	heart	None	None
+ke̱kpo̱o̱	liver	None	None
+atwaa	kidney	None	None
+afo̱ro̱fo̱ro̱o̱	lung	None	None
+mpuni	intestines	None	None
+kadeŋdeŋtwuwa	bladder	None	None
+kapake̱na	gall bladder	None	None
+kaakyini	muscle	None	None
+kaakyini	tendon	None	None
+kaakyini	vein	None	None
+ke̱fo̱e̱ŋɛ	breath	None	None
+atwe̱nɛ	saliva	None	None
+ɔwɛɛ	phlegm	None	None
+e̱me̱yɛ	nasal mucus	None	None
+aso̱lɛ fe̱ akpaataa	earwax	None	None
+e̱nyɛtwi	tears	Noun	None
+mbo̱gyɛ	blood	None	None
+kapake̱na	bile	None	None
+kawi	semen	None	None
+mburi	urine	None	None
+e̱kɔɔ	excrement	None	None
+gye̱bo̱e̱	blink	None	None
+ke̱we̱e̱re̱	wink (eye)	None	None
+fo̱re̱	blow nose	None	None
+fo̱e̱ŋɛ	breathe	None	None
+ŋɛmɛ	yawn	None	None
+kpɔɔne̱	snore	None	None
+ke̱te̱ŋyiise̱	pant	None	None
+fo̱re̱	blow (with mouth)	None	None
+twi	spit	None	None
+wo̱rɛ	cough	Verb	None
+kpese	belch	None	None
+ke̱pakyaa	hiccough	Noun	None
+kpɛkyɛŋ	sneeze	Verb	None
+ke̱ke̱ŋ	groan (with pain)	None	None
+ke̱ke̱ŋ	grunt (from effort)	None	None
+ke̱fo̱e̱ŋɛ gbɛse̱	palpitate (of heart)	None	None
+burife	urinate	None	None
+puee	break wind	None	None
+kɔɔ	defecate	None	None
+yiridi	shiver, tremble	None	None
+sware̱	perspire, sweat	None	None
+mbo̱gyɛ fe̱ ke̱twe̱ŋ	bleed	None	None
+mbo̱gyɛ fe̱ ke̱de̱e̱re̱	coagulate, clot	None	None
+mbiimbii	(be) dizzy	None	None
+twaare̱	faint	None	None
+de̱e̱re̱	sleep	Verb	None
+kukure	dream	Noun	None
+kyiŋi	wake up (intr)	None	None
+ke̱e̱	see	None	None
+ŋwu	notice	Verb	None
+ke̱e̱	look at, watch	None	None
+nu	hear	None	None
+nu	listen	None	None
+hwɛŋ	smell	Verb	None
+ke̱dɛbo̱rɛ	feel (passive)	None	None
+dɛbo̱rɛ	touch, feel (active)	None	None
+ɔdɛɛ/ ɔdɛbi	taste	None	None
+gyi	eat	None	None
+duŋ	bite	Verb	None
+bue	crunch	None	None
+wo̱	chew	None	None
+wo̱	gnaw	None	None
+me̱yɛ	swallow	None	None
+kpe̱rɛ/ si	choke	None	None
+niire	lick	None	None
+two̱to̱o̱	suck	None	None
+nuu	drink	None	None
+kye̱nase̱	sit	None	None
+ko̱se̱	rise up (intr)	None	None
+daase̱	lie down	None	None
+dane̱ e̱yo̱o̱	turn round (intr)	None	None
+nɛre̱	walk	None	None
+kye	step	Verb	None
+hyiriyi	stumble	None	None
+kpintin	limp	None	None
+nwɛre̱	crawl	None	None
+se̱re̱	run	None	None
+pe̱e̱re̱	swim	None	None
+furiyi	jump	Verb	None
+dɛ	kick	None	None
+kye	stamp (with foot)	None	None
+kyikye	trample	None	None
+lɛɛ ke̱sɛre̱	wave (hand as a greeting)	None	None
+ahwaa	clap (hands)	None	None
+dɛ ko̱so̱lɛ	slap	Verb	None
+ye̱re̱	stand	None	None
+kpɛse̱	lean against (intr)	None	None
+buŋase̱	bend down, stoop	None	None
+baase̱	bow (as in greeting)	None	None
+kye̱nase̱	(be) seated	None	None
+gyɔŋase̱	squat	None	None
+duu aŋwuni	kneel	None	None
+ke̱daase̱	(be) lying down	None	None
+ayo̱re̱ fe̱ ke̱be̱re̱	(be) hot (of person)	None	None
+ako̱ŋ	(be) hungry, hunger	Verb	None
+ke̱fo̱ne̱	(be) sated	None	None
+ɔburufɔɔ	(be) thirsty, thirst	Verb	None
+ke̱bo̱o̱	(be) drunk	None	None
+ke̱kpo̱ne̱	(be) tired	None	None
+e̱de̱ dɛ me̱	(be) sleepy	None	None
+ke̱twire	rest	None	None
+de̱ e̱yo̱o̱ se̱	(be) awake, alert	None	None
+ke̱ŋwe̱ɛŋwe̱ɛ	wrinkle (on skin)	None	None
+ke̱nyii	pimple	None	None
+ke̱tɛkpo̱lɛkpɛɛsɛ	(be) bald	None	None
+ke̱te̱nɛ	(be) blind	None	None
+ke̱to̱re̱	(be) myopic, (be) shortsighted	None	None
+ke̱wo̱re̱	(be) thin	None	None
+me̱ e̱yo̱o̱ me̱ŋ bo̱lɛ	(be) impotent	None	None
+ɔkye̱e̱ bɔŋbɔŋ	barren woman	None	None
+ke̱te̱nɛ	blind person	None	None
+naamuu	deaf (mute) person	None	None
+ke̱gbaabo̱ɔ	cripple	None	None
+kaye̱sɛtin	dwarf	None	None
+dɛŋbaye̱	giant	None	None
+ke̱to̱e̱	stupid person	None	None
+nye̱ŋbe̱re̱/ kye̱be̱re̱	senile person	None	None
+ɔbɔdamfo̱ɔ	mad person	None	None
+kwaa	(be) healthy, (be) well	None	None
+lɔ	(be) sick, (be) ill	None	None
+ke̱pira	hurt oneself	None	None
+ky3	heal (tr), cure	Verb	None
+kaduu	medicine	None	None
+kpaate̱	get well, recover	None	None
+mpoŋpoŋ	abscess	None	None
+e̱ponŋ	swelling	None	None
+ke̱wɔɔgyɛ	burn	Noun	None
+kɔmpɔ	goiter	None	None
+dawu	hernia (umbilical)	None	None
+kame̱nɛ fe̱ ɔlɔ	ulcer (leg)	None	None
+ɔlɔ	wound, sore	None	None
+mpoŋmpoŋ twi	pus	None	None
+ke̱nɛpe̱nɛ	scar	None	None
+e̱puni lɛ fe̱ atɛŋtɛŋ	intestinal worm	None	None
+ko̱lɔ	illness, disease	None	None
+gyampim	elephantiasis	None	None
+se̱yɛse̱yɛ	ringworm	None	None
+gyatɔ/ ko̱lɔ kɔkɔɔ	leprosy	None	None
+ase̱ram	malaria (fever)	None	None
+ase̱ram	fever (not malaria)	None	None
+ɔɔgyɛ/ ke̱dui	pain	Noun	None
+ke̱pira	give pain, hurt	None	None
+ke̱dui	throb (with pain)	None	None
+kpe̱rɛye̱	vomit	Verb	None
+kame̱nɛ dui	stomachache, upset stomach	None	None
+kuŋwu dui	headache	None	None
+ke̱kɔɔ kame̱nɛ	diarrhea	None	None
+ayo̱re̱ fe̱ ke̱ke̱rɛhye̱ɛ	scabies (the itch)	None	None
+ŋkpa	life	None	None
+te ŋkpa lɛ	(be) alive	None	None
+ke̱kye̱nɛ	menstrual period	None	None
+de̱n kaame̱	(be) pregnant	None	None
+kaame̱ fe̱ ke̱kyikye	miscarriage	None	None
+ke̱dui	labour , birth pains	Noun	None
+ko̱o̱	bear (child), give birth	None	None
+ko̱o̱	(be) born	None	None
+kaagbi	(be) young	None	None
+dɛŋ	grow up	None	None
+dɛŋ	(be) old (not young)	None	None
+wu	die	None	None
+lɛwu	death	None	None
+wu	(be) dead	None	None
+dwe̱ne̱	think	None	None
+sɔɔgyi	believe	None	None
+anyɛse̱ de̱ se̱	hope	Verb	None
+nyi	know (something or someone)	None	None
+kanyiase̱ŋ	knowledge	None	None
+kanyɛse̱te̱ŋ	wisdom	None	None
+kanyɛse̱te̱ŋ	(be) wise	None	None
+kanyiase̱ŋ	(be) intelligent	None	None
+ko̱to̱e̱	(be) stupid	None	None
+turi	(be) confused	None	None
+sua	learn	None	None
+sune	teach	None	None
+sune	show	None	None
+nyiŋi	remember	None	None
+tɛŋse̱	forget	None	None
+kanyɛse̱gyi	(be) happy, (be) joyful	None	None
+kanyɛse̱gyi	rejoice	None	None
+mɔse̱	laugh	None	None
+mɔse̱ nye̱mo̱e̱-nye̱mo̱e̱	smile	None	None
+bo̱re̱ŋŋ	(be) sad	None	None
+su	cry, weep	None	None
+bo̱re̱ŋŋ	sorrow	Noun	None
+pe̱ɛre̱	shame	Noun	None
+e̱wɔɔ	pity	Noun	None
+e̱fu	fear	Noun	None
+e̱fu ɛnyɛme̱	frighten	None	None
+e̱ŋwo̱ŋwaa	startle	None	None
+odoŋfuu	(be) angry	None	None
+ke̱baa e̱yo̱o̱ kaase̱	calm (oneself)	None	None
+ke̱yɛse̱ e̱yo̱o̱ se̱	(be) proud	None	None
+bu alɛ	respect	Verb	None
+bu alɛ	honour	Verb	None
+lɛɛ ase̱ŋ	love	Verb	None
+kisi	hate	Verb	None
+kisi	despise	None	None
+lɛɛ	want, desire	Verb	None
+bɔɔ ase̱ɛ	decide	None	None
+lɛɛ	choose (tr), pick (tr)	None	None
+fe̱ a dwoo	hesitate	None	None
+hwe̱ɛ e̱yo̱o̱	abstain	None	None
+sɛ ɔkpa	allow, permit	None	None
+fe̱ asɛ ɔkpa	forbid	None	None
+tii ɔkpa	prevent	None	None
+d3 ke̱kpɔɔ	plan  projet	Noun	None
+bɔɔ ke̱e̱	try	None	None
+baalɛ	succeed	None	None
+e̱me̱ŋ baalɛ	fail	None	None
+bɔɔ fe̱ɛ	pretend	None	None
+ke̱bo̱arɛ	(be) kind	None	None
+e̱tima	(be) generous	None	None
+kpaare̱ me̱doo maalɛ	(be) selfish	None	None
+nnyire	(be) honest	None	None
+ke̱gbaa	(be) corrupt	None	None
+kuŋwulɛkwaa	(be) wicked	None	None
+e̱ bo̱ e̱fu	(be) fierce	None	None
+kanyɛse̱pe̱ɛ	(be) jealous	None	None
+e̱pe̱ɛre̱	(be) shy	None	None
+ɔdonse̱e̱	(be) courageous, (be) brave	None	None
+e̱fupo̱	coward	None	None
+nhwɛ	(be) curious	None	None
+anyɛse̱ fe̱ ke̱pe̱ɛ	(be) eager, (be) zealous	None	None
+wuregbe	(be) lazy	None	None
+tɔɔ ɔyɔɔ	(be) patient	None	None
+me̱n tɔɔ ɔyɔɔ	(be) impatient	None	None
+ke̱kpo̱ne̱	(be) restless, (be) unsettled	None	None
+ɔdoŋkwaa	(be) stubborn	None	None
+ke̱fe̱ŋɛ	reputation	None	None
+ke̱ŋwuase̱ŋ	hardship, distress	None	None
+ɔkwaa	(be) difficult	None	None
+ŋwu ase̱ŋ	suffer	None	None
+alɛ mɔɔ e̱tii ɔkpa a	obstruct	None	None
+alɛ mɔɔ e̱tii ɔkpa a	stumbling block	None	None
+ase̱ŋ ɛto̱	danger	None	None
+ase̱ŋ	problem	None	None
+ye̱sɛ	human being	None	None
+e̱yo̱o̱	self	None	None
+ɔnye̱ne̱	man (male)	None	None
+ɔkye̱e̱	woman	None	None
+ye̱sɛ fufuri	white man	None	None
+kadame̱re̱	fetus	None	None
+kapɔmpɔre̱	baby	None	None
+katebi	twin	None	None
+kagbi	child	None	None
+kagbi nye̱ne̱	boy	None	None
+kagbi kye̱e̱	girl	None	None
+ɔdɛŋsɛ	adult	None	None
+kanye̱ŋsɛ	young man	None	None
+ɔ me̱ŋ nyi ɔnye̱nqe̱	virgin	None	None
+ɔdɛŋsɛ	old person	None	None
+kabureŋnyi	relative (by blood)	None	None
+ɔnɛnye̱ne̱	ancestor	None	None
+ɔnɛ/ ɔnɛnye̱ne̱	grandparent	None	None
+ɔse̱	father	None	None
+onyi	mother	None	None
+ɔso̱o̱/ ɔdɛŋsɛ/ ɔso̱nye̱ne̱	brother (elder/younger)	None	None
+ɔso̱o̱/ ɔdɛŋsɛ/ ɔso̱kye̱e̱	sister (elder/younger)	None	None
+ɔse̱kaa	father's brother (uncle)	None	None
+oyirepu	mother's brother (uncle)	None	None
+onyikaa	mother's sister (aunt)	None	None
+onyikaa	father's sister (aunt)	None	None
+ɔso̱o̱	cousin	None	None
+ogbi gyɛŋkpaapo̱	firstborn	None	None
+ɔnɛnye̱ne̱	descendant	None	None
+ogbi nye̱ne̱	son	None	None
+ogbi kye̱e̱	daughter	None	None
+ɔnɛ	grandchild	None	None
+oyirepu	nephew	None	None
+ke̱nye̱ne̱	name	None	None
+ɔhyaa	in-law, relative by marriage	None	None
+okuri	husband	None	None
+ɔkɛ	wife	None	None
+ɔkɛbaa	fellow-wife, co-wife	None	None
+ɔhyaa nye̱ŋsɛ	father-in-law	None	None
+ɔhyaa kye̱e̱sɛ	mother-in-law	None	None
+ako̱ŋta	brother-in-law	None	None
+okurikye̱e̱	sister-in-law	None	None
+ɔhyaa	son-in-law	None	None
+ɔhyaa	daughter-in-law	None	None
+ɔkye̱e̱ kure̱po̱	widow	None	None
+ɔnye̱ne̱ kure̱po̱	widower	None	None
+aŋumbi	orphan	None	None
+ɔpo̱ŋsɛ	fiancé (betrothed boyfriend)	None	None
+ɔpo̱ŋsɛ	fiancée (betrothed girlfriend)	None	None
+kakpe̱ŋgbi	bastard, illegitimate child	None	None
+se̱ŋsɛ	tribe, ethnic group	None	None
+kabureŋ	clan	None	None
+kubureŋ awie	family	None	None
+ɔdɛmpo̱	friend	None	None
+ɔkye̱nɛbe̱ne̱po̱	neighbour	None	None
+onyipo̱	acquaintance	None	None
+ɔmo̱ mɔɔ ko̱dɔɔko̱ ye̱re̱ me̱ se̱ a	host	None	None
+ɔfɔ	guest, visitor	None	None
+ɔfɔ	stranger (unknown person)	None	None
+ɔkisipo̱	enemy	None	None
+ye̱sɛ bo̱e̱ŋ	traitor	None	None
+owi	thief	None	None
+ɔkpa sunepo̱	guide	Noun	None
+osoŋpo̱	messenger	None	None
+laamɛŋ	crowd	None	None
+owure	chief, headman	None	None
+ɔdɛŋsɛ	elder	None	None
+ɔnye̱nɛpo̱	master	None	None
+kakpaa	slave	None	None
+ɔdɔɔpo̱	farmer	None	None
+nkpate̱ralɛɛqpo̱	fisherman	None	None
+ɔtɛpo̱	hunter	None	None
+ɔgbe̱re̱po̱	blacksmith	None	None
+ɔpɔɔpo̱	potter	None	None
+ɔlo̱po̱	weaver	None	None
+mbo̱ mɔɔpo̱	butcher	Noun	None
+ke̱gbɛgyipo̱	trader	None	None
+osuŋpo̱	(domestic) servant	None	None
+ɔko̱re̱po̱	beggar	None	None
+ɔkɔpo̱	soldier	None	None
+anye̱ne̱ kpaare̱po̱	prostitute	None	None
+ko̱ko̱o̱ sɔɔpo̱	midwife	None	None
+ɔgbaa	fetish priest	None	None
+ɔkpɛ	sorcerer (male)	None	None
+ɔkpɛ	witch (female)	None	None
+ɔkpe̱rɛpo̱	fortune-teller	None	None
+hwaa	meet, encounter	None	None
+wɔɔ se̱	accompany	None	None
+bɔlɛ	(be) together	None	None
+hwaa	assemble, meet together	None	None
+to̱o̱ ke̱sɛre̱ te̱e̱	invite	None	None
+doo	(be) alone	None	None
+yɛŋ si	abandon	None	None
+se̱re̱	flee, run away from	None	None
+gyɛ	drive away	None	None
+tii ɔkpa	avoid	None	None
+kaabe̱ŋ dɛɛ	(be) same	None	None
+kwe̱e̱	(be) different	None	None
+le̱e̱	resemble	None	None
+kɛse̱	imitate	None	None
+anyɛse̱ fe̱ ke̱gyi e̱yo̱o̱	admire	None	None
+hwɛ se̱	befit, suit	None	None
+se̱ŋsɛ	language	None	None
+ke̱se̱ŋgbi	word mot	None	None
+kase̱	meaning	Noun	None
+be̱re̱	say	None	None
+ɔbo̱re̱	voice	None	None
+sɛ ase̱ŋ	speak, talk	None	None
+dɛ hwe̱e̱re̱	whisper	Verb	None
+fe̱yɛ/ faa	shout , cry out	Verb	None
+sɛ ase̱ŋ	chat	Verb	None
+mumuu	mumble	None	None
+ke̱me̱yɛme̱yɛ	stutter	None	None
+letuu fe̱ ke̱wo̱re̱	(be) eloquent	None	None
+buŋ letuu	(be) silent	None	None
+kye̱a	greet	Verb	None
+te̱e̱	call (someone)	None	None
+nɛre̱	say goodbye, take leave	None	None
+dɛ  ke̱le̱bo̱o̱	announce	None	None
+ase̱ŋ	announcement	None	None
+ase̱ŋ	news	None	None
+sune lɛ	explain	None	None
+tu ke̱po̱	advise	None	None
+tɔwo̱	gossip	Verb	None
+akye̱rɛŋ	lie  (falsehood)	Noun	None
+bise	ask, request	None	None
+ko̱re̱	plead, implore	None	None
+ko̱re̱	request	Noun	None
+lɛɛ letuu	answer, reply	Verb	None
+dɛ ase̱e̱	thank	None	None
+be̱re̱ yaase̱	promise	Noun	None
+ke̱kaa ntɛŋ	oath	None	None
+ke̱kaa ntɛŋ	swear	None	None
+kwii aseibi	insult	Verb	None
+aseibi	insult	Noun	None
+kye̱kyaa	slander	Verb	None
+waa e̱fu	threaten	None	None
+gyi ikii	argue	None	None
+kaakiigyi	argument	None	None
+tɔwo̱	grumble, complain	None	None
+e̱kye abaa	contradict	None	None
+dɛ kwaadu	accuse	None	None
+so̱o̱	deny nier	None	None
+sɔɔ tɔɔ lɛ	admit (to a wrong)	None	None
+sɔɔ tɔɔ lɛ	agree	None	None
+ke̱sɔɔ tɔɔ lɛ	agreement	None	None
+hyɛ	persuade	None	None
+yaye̱	praise	Noun	None
+wire	bless, praise (someone)	None	None
+yaye̱	congratulate	None	None
+brag                                       dwaa lɛtoolɛ	boast	None	None
+be̱re̱	tell, recount (story)	None	None
+ɔte̱yɛ	story (tale)	None	None
+abɛbuo	proverb	None	None
+se̱ŋsɛ	speech, discourse	None	None
+e̱me̱ mɔɔ e̱yi a	account (report)	Noun	None
+beri maa ke̱kaa lɛ	embrace, hug	Verb	None
+yoeyie	caress	Verb	None
+two̱two̱o̱ letuu	kiss	Verb	None
+ke̱de̱	copulate, have sexual intercourse	None	None
+two̱two̱o̱	nurse, suckle (baby)	None	None
+nkye̱ke̱e̱- nkye̱ke̱e̱	tickle	Verb	None
+ke̱baatii	spank (child)	None	None
+be̱e̱	whip	Noun	None
+kye lɛ	help	None	None
+kuŋ	protect, defend	None	None
+ke̱e̱ se̱	look after	None	None
+ke̱e̱	bring up (a child)	None	None
+gyise̱	rule over, dominate	None	None
+be̱re̱ waa	order (someone to do something)	None	None
+hyɛ	command	Noun	None
+dwumba	duty, obligation	None	None
+soŋ	send (someone to do something)	None	None
+suŋ	serve	None	None
+gyɛ anyɛse̱lɛ nkpaa	lead, guide	Verb	None
+wɔɔ se̱	follow	None	None
+nu	obey	None	None
+anyɛse̱ fe̱ ke̱sɔɔ alɛ	please, satisfy	None	None
+odoŋ fuu	annoy, disturb	None	None
+gye̱gye̱	deceive	None	None
+yii yoi nse̱ŋ lɛ	quarrel	None	None
+kwɔ	fight	None	None
+kpie/ yii	stab	None	None
+mɔɔ	kill, murder	None	None
+bɔɔ te̱ŋ kokɔ	take revenge	None	None
+be̱re̱ ase̱ŋ	resolve, settle (dispute)	None	None
+gyi	intercede, mediate	None	None
+sɔɔ tɔɔ lɛ	compromise	None	None
+dwe̱raa	appease, pacify	None	None
+wii	steal	None	None
+bu atɛŋ	judge	Verb	None
+ahyɛse̱ŋ	law	None	None
+atɛŋtima fe̱ ke̱bu	(be) fair, just	None	None
+e̱pɔ	(be) guilty	None	None
+e̱yo̱o̱ fe̱ ke̱me̱ŋ dɛ ase̱ŋ	(be) innocent	None	None
+hwe̱ɛ ko̱so̱	punish	None	None
+ko̱so̱ fe̱ ke̱hwe̱ɛ	penalty, punishment	None	None
+kye̱nɛ	dwell, inhabit	None	None
+ɔmaŋyi	inhabitant, resident	None	None
+akuraanyi	bush	None	None
+tu	move away, migrate	None	None
+ɔso̱o̱re	country, ethnic	None	None
+akuraa	village	None	None
+ndɛnase̱	camp, encampment	None	None
+ke̱gbɛlɛ	market	Noun	None
+e̱waasɛ	article of clothing, clothes	None	None
+waa e̱waasɛ	wear clothes	None	None
+taa e̱yo̱o̱	dress	Verb	None
+lɔɔ e̱yo̱o̱	undress	None	None
+nare̱ kpɔŋkpɔŋ	(be) naked	None	None
+ke̱pɛ	hat	None	None
+ɔso̱so̱ fe̱ e̱waasɛ	shirt	None	None
+kaase̱ fe̱ e̱waasɛ	trousers	None	None
+kate̱ŋbɛ	loincloth	None	None
+ɔso̱o̱ fe̱ e̱waasɛ	robe (man's gown)	None	None
+akye̱e̱ fe̱ e̱waasɛ	cloth worn by a woman	None	None
+kaakyebi mɔɔ baabo̱ ke̱e̱ kagbi	baby sling	None	None
+agbire	bead	None	None
+ɔfɛ	string, thread (beads)	Verb	None
+kaakpɛte̱a	bracelet	None	None
+ɔbo̱rɛlɛ fe̱ kaakpɛte̱a	necklace	None	None
+aso̱ fe̱ kaakpɛte̱a	earring	None	None
+furi aso̱	pierce (ears)	None	None
+kaanɛwo̱re̱ fe̱ kaakpɛte̱a	labret, lip plug, lip disk	None	None
+ke̱e̱	plait, braid (hair)	None	None
+e̱yo̱o̱ fe̱ ke̱kyɛkyɛre̱	(facial) incision(s), tattoo	None	None
+kiyinkpɛŋba	cane, walking stick	None	None
+gbie	bathe, wash oneself	None	None
+kyini	apply (ointment)	None	None
+se̱yɛ	cut (hair)	None	None
+se̱yɛ	shave	Verb	None
+ɔse̱yɛsɛ	razor	None	None
+owu	comb	Noun	None
+oyi wo̱sɛ	tooth stick, toothbrush	None	None
+agyibi	food	None	None
+kiiyie	meat	None	None
+nfɔ	fat	None	None
+nfɔ	oil	None	None
+e̱po̱,	soup	None	None
+fo̱ɛ	pap, mushy food	None	None
+paano̱o̱	bread	None	None
+paano̱o̱ fe̱ akpaataa	crust	Noun	None
+mpuu	flour	None	None
+mfo̱rɛ	salt	None	None
+de̱re̱se̱ fe̱ agyibi	breakfast	None	None
+kanyɛse̱gyi	feast	None	None
+agyikɛŋ	leftovers	None	None
+agyibi mɔɔ e̱kyikye a	spoil (food) (intr)	None	None
+ke̱puuse̱	mould	Noun	None
+ke̱nyɛpo̱o̱ ntqi	milk	Noun	None
+ke̱nyɛpo̱o̱ ntqi mɔɔ e̱kyikye a	curdled milk	None	None
+ntɛ	alcohol (general)	None	None
+ntɛ	beer (traditional)	None	None
+kyaare̱twi fe̱ ntɛ	mead, honey beer	None	None
+kaabɛ tɛ	palm wine	None	None
+de̱nɛ	prepare (food to cook)	None	None
+te̱ŋ	cut (tr)	None	None
+paye̱ lɛ	cut open (fruit)	None	None
+kye̱yɛ	slice	None	None
+kpɛ	peel	Verb	None
+fo̱raa	mix	Verb	None
+wurelɛ	stir	None	None
+kye̱kye̱	strain (food)	Verb	None
+wɔɔ	pound	None	None
+kwɛɛ	grind	None	None
+fe̱te̱	knead	None	None
+twiii	pluck (feathers)	None	None
+de̱nɛ	cook  (faire)	Verb	None
+tɔ	roast	None	None
+ye̱e̱	fry	None	None
+tɔ	bake (in ashes)	None	None
+ŋɛse̱	(be) smoked	None	None
+fuu	boil (water), bubble up	None	None
+ke̱bɛnyɛŋ	ferment (alcohol)	Verb	None
+kade̱nɛ	cooking pot (earthenware)	None	None
+dansɛŋ	metal pot	None	None
+katwubui	pot (for water)	None	None
+kapo̱te̱e̱	ladle	None	None
+kaso̱e̱	cooking stone	None	None
+ke̱kwɛɛbu	grinding stone	None	None
+ke̱bugbi	upper grinding stone	None	None
+ke̱kwɛɛbu	lower grinding stone	None	None
+ope̱ne̱yi	pestle, pounding stick	None	None
+ke̱pe̱ne̱	mortar, pounding pot	None	None
+kaye̱wa	plate	None	None
+kome̱ŋtii	bowl bol	None	None
+katɛwɛɛ	cup gobelet	None	None
+ate̱re̱	spoon (traditional)	None	None
+ke̱dɛkaa	box carton	None	None
+kagbielɛ	bucket	None	None
+ko̱wɛ	calabash	None	None
+katuni	bottle	None	None
+buŋsɛ/ tiisɛ	stopper, plug	None	None
+ke̱sɛre̱	handle	None	None
+be̱rɛye̱	pour	None	None
+two̱ŋ wo̱re̱e̱	spill (liquid) (tr)	None	None
+lɛɛ tii	take out (from container)	None	None
+se̱yɛ waalɛ	fill	None	None
+bo̱rɛ	(be) full	None	None
+boŋboŋ	(be) empty	None	None
+buu	(be) open	None	None
+buu	open (tr)	None	None
+tii	close, shut (tr)	None	None
+tiisɛ/ buŋsɛ	stop up	None	None
+buŋ	cover	Verb	None
+buu	uncover	None	None
+wo̱raase̱	store (up)	None	None
+gyɛke̱	bundle	Noun	None
+ke̱se̱ŋwu	heap up	None	None
+ke̱e̱	wrap up	None	None
+sɛŋɛ lɛ	unwrap	None	None
+ke̱e̱	pack	Verb	None
+ke̱bo̱a	strap	Noun	None
+ɔfɛ	string	Noun	None
+ke̱kpɔɔ	knot	None	None
+ke̱e̱	fasten, bind (load)	None	None
+ke̱e̱	tie (knot)	None	None
+sɛŋɛ	untie	None	None
+ke̱e̱	tighten (tr)	None	None
+yoe lɛ	(be) tight (être)	None	None
+sɛŋɛ lɛ	loosen	None	None
+sɛŋɛ lɛ	(be) loose, slack	None	None
+kabureŋ lɛ	compound, house	None	None
+baŋ	hut	None	None
+0bureŋɛn lɛ	doorway	None	None
+kukuu	window	None	None
+baŋ	roof	None	None
+kapuna	beam	None	None
+ɔso̱rɛse̱	floor	None	None
+ke̱bɛŋ lɛ	room	None	None
+ke̱baalɛ	bedroom	None	None
+kaso̱e̱kaa	kitchen	None	None
+baŋ fe̱ letuu	entrance hut	None	None
+ɔlɔŋlɛ	courtyard	None	None
+ɔpɔre̱	fence	Noun	None
+yii ɔpɔre̱	fence in	Verb	None
+ke̱buu	granary	None	None
+ke̱turubu	well	Noun	None
+ogbiekpɛ	bathing place	None	None
+ɔbɛne̱	latrine, toilet	None	None
+ke̱ŋwune	garbage dump	None	None
+mpie	garden	None	None
+ke̱baŋ	shelter	Noun	None
+yii	construction	None	None
+yii	build	None	None
+dɛ yii	mark out, peg out (ground)	None	None
+ke̱se̱be̱re̱	mud block	None	None
+e̱su fe̱ ke̱baŋ	thatch	Noun	None
+kwaa	plaster	Noun	None
+kaa	lime, whitewash	None	None
+kwaa	paint	Noun	None
+ɔtwe̱ne̱	ladder	None	None
+kaagbɛ	chair	None	None
+kakote	stool	None	None
+ke̱lo̱	wickerwork	None	None
+mpaa	bed	None	None
+ade̱rɛ	mat	None	None
+ke̱tɛpraa	lamp, torch	None	None
+ofuisɛ	fan	Noun	None
+ɔdɔne̱	bell	None	None
+dɛ ɔdɔne̱	ring (bell)	Verb	None
+bɔɔ	act, do	None	None
+dwumba	work	Noun	None
+bɔɔ	mend, repair	None	None
+gbe̱re̱	forge	Noun	None
+ɔdɛsɛ	hammer	None	None
+pɔɔ	mould (pottery)	None	None
+oyi	wood	None	None
+ŋɛ to̱o̱	cut down (tree)	None	None
+oyi- tin	log	None	None
+lɔɔle̱ lɛ	hollow out (log)	None	None
+kaafɛ	axe	None	None
+te̱ke̱ lɛ	chop into pieces	None	None
+kiyintin	plank	Noun	None
+oyi fe̱ ke̱kpɔɔ	splinter, sliver	Noun	None
+ɔle̱lɛ	chisel	Noun	None
+ke̱darabi	nail	Noun	None
+baalɛ	sew	None	None
+kayikpe̱rɛŋ	needle	None	None
+ɔfɛ	thread	Noun	None
+bɔtɛ	pocket	None	None
+hyɛre̱	(be) torn	None	None
+lo̱	weave	None	None
+kakyebi	cloth	None	None
+kakyɛfaa	rag	None	None
+ɔpɛse̱	broom	None	None
+laye̱	sweep	None	None
+kwaa	polish	None	None
+fo̱o̱	wash (clothes, utensils)	None	None
+to̱o̱ ntwi	draw water	None	None
+kuu	dig	None	None
+e̱su	rubbish	None	None
+dɔɔ ndɔɔ	cultivate, farm	Verb	None
+ɔso̱o̱re̱	field	None	None
+ɔkaa	boundary (of field)	None	None
+ɔso̱o̱re̱ tima	fertile soil	None	None
+ɔso̱o̱re̱ te̱te̱e̱	(be) barren (of land)	None	None
+dɔɔ	clear (land for planting)	None	None
+duu	sow, plant	None	None
+twii yi	transplant	None	None
+dɔɔ	weed	Verb	None
+dɔɔ	hoe	Verb	None
+kaato̱	hoe	Noun	None
+kpatakpe̱ra	big hoe	None	None
+kakurufɛ	sickle	None	None
+ke̱pɛŋ	machete, cutlass	None	None
+ke̱te̱ŋ be̱e̱	harvest season	None	None
+gne̱ɛ	harvest (maize)	Verb	None
+kuu	harvest, dig up (yams)	None	None
+te̱ke̱	pick, pluck (fruit)	None	None
+lo̱	harvest, collect (honey from hive)	None	None
+ɔbe̱e̱ kpa	threshing-floor	None	None
+be̱e̱	thresh, beat (grain)	None	None
+kyaare̱	winnow	Noun	None
+kyaare̱	winnow, throw in air (grain)	Verb	None
+bue	shell (groundnuts)	Verb	None
+fo̱rɛye̱	husk (corn)	Verb	None
+be̱rɛ	domesticate	None	None
+annare̱ fe̱ ke̱twuu	herd (cattle, sheep)	Noun	None
+anaare̱ fe̱ ke̱twuu	herd, tend (cattle, sheep)	Verb	None
+ke̱buu	cattle pen	None	None
+nwune	tether (sheep, goats)	Verb	None
+agyibi	feed (animals)	None	None
+saa	castrate	None	None
+te̱yɛ	stalk	Verb	None
+gyɛ	chase	Verb	None
+ke̱tɛŋ	track (animal)	Noun	None
+ke̱tɛŋ	footprint (human)	None	None
+ke̱tɛyi	bow (hunting)	None	None
+ke̱tɛ	arrow	None	None
+ke̱bo̱r)	poison (on arrow)	None	None
+ke̱tɛ fe̱ ko̱r)	quiver	Noun	None
+ke̱kpɛ	lance (spear)	Noun	None
+ɔse̱kɛŋ/ kapɛŋ	knife	None	None
+ke̱twɔɔkuŋ	club, cudgel	None	None
+kyire	trap	Noun	None
+so̱o̱	set (trap)	None	None
+kyire	trap (animal)	Verb	None
+se̱re̱	evade	None	None
+se̱re̱	escape	None	None
+ɔlɔ	wound (animal)	None	None
+mɔɔ	slaughter, kill (animal for butchering)	None	None
+gbɛ	skin (animal)	Verb	None
+lɛɛ nkpate̱ra	fish	Verb	None
+ke̱pɛre̱	fish dam	None	None
+asawu	fishing net	None	None
+dr)wɔ	fishing line	None	None
+nyɛ	have, possess	None	None
+kpaare̱	need	Verb	None
+nyɛ	get, obtain	None	None
+sɛ	give	None	None
+buŋi bo̱ sɛ	return (tr), give back	None	None
+lɛŋɛ	belongings	None	None
+owuye	owner	None	None
+ɔme̱ mɔɔ ɔdɛ me̱ e̱yo̱o̱ a	rich man	None	None
+fe̱ anyɛ e̱yo̱o̱	(be) poor	None	None
+atɛne̱	money	None	None
+atɛŋgbi	cowrie shell	None	None
+sɔɔ	buy	None	None
+fɛ	sell	None	None
+lɔ	(be) scarce	None	None
+e̱dɛ ke̱gbɛ	(be) expensive	None	None
+ke̱gbɛ	price	None	None
+gyi e̱me̱ ke̱gbɛ	haggle, negotiate a price	None	None
+ko̱kɔka	payment	None	None
+ka ko̱kɔ	pay (for goods, services, etc)	None	None
+leke	gift	None	None
+ke̱taa	hire	Verb	None
+ko̱re̱	beg (for money)	None	None
+paare̱	borrow	None	None
+paare̱	lend	None	None
+ko̱kɔ	debt	None	None
+bo̱ sɛ	offer	Verb	None
+sɔɔ	accept, receive	None	None
+fe̱ a sɔɔ	refuse	None	None
+ɔtɔɔ	tax	Noun	None
+lɛgyi	inheritance	None	None
+gyi alɛ	inherit	None	None
+ɔkpa	journey, trip	Noun	None
+tu ɔkpa	travel, go on a trip	Verb	None
+ɔkpatupo̱	traveler	None	None
+kini	wander	None	None
+fo̱fɔ	(be) lost	None	None
+ɔkpa	path, road	None	None
+ɔkpahwaakpa	fork (in path)	None	None
+e̱kpahwaakpa	crossroads	None	None
+te̱ŋ	cross (river)	None	None
+ɔko̱ro̱	canoe	None	None
+ke̱prɛ	paddle	Noun	None
+prɛ	paddle	Verb	None
+se̱yɛ tii	bale out (canoe, boat)	None	None
+buŋ	capsize	None	None
+taa ba	bring	None	None
+taa nɛre̱	take (away), carry away	None	None
+soŋ	send (something to someone)	None	None
+krɛ	carry (in arms)	None	None
+taama	carry (child) on back	None	None
+so̱rɛ	carry on head	None	None
+ɔso̱rɛsɛ	headpad	None	None
+lɛso̱rɛ	load, burden	Noun	None
+sui waalɛ	load	Verb	None
+lɛɛ wo̱raase̱	unload	None	None
+e̱kwɔ	war	None	None
+ko̱so̱lɛtɔɔ	peace	None	None
+akwɔpo̱	army	None	None
+ke̱te̱yɛ	spy	Noun	None
+te̱yɛ	spy	Verb	None
+ke̱pɛŋ	sword	None	None
+otuo	gun	None	None
+gyise̱	conquer, defeat	None	None
+gyise̱	(be) defeated	None	None
+ɔkpɛsɛlɛpo̱	prisoner, captive	None	None
+ɔlo̱ŋ	music	None	None
+ɔlo̱ŋ	song	None	None
+be̱re̱	sing	None	None
+dɛ hwe̱e̱re̱	whistle	Verb	None
+ke̱kyaa	dance	Noun	None
+kyaa	dance	Verb	None
+ke̱timpani	big(gest) drum	None	None
+kakwɔe̱bi	small(est) drum	None	None
+ke̱timpani	talking drum	None	None
+doŋdoŋ	hour glass drum	None	None
+kaabe̱re̱	flute	None	None
+koŋgyi	harp	None	None
+kakyɔŋkɔse̱	horn (musical instrument)	None	None
+kyaare̱	rattle (musical instrument)	None	None
+dɛ	play instrument	None	None
+fo̱re̱	blow (horn)	None	None
+ke̱ye̱ŋ fe̱ ke̱kyɛkyɛre̱	draw (picture)	None	None
+bɔɔ	decorate	None	None
+hyire	carve	None	None
+sueri	play (child) (intr)	None	None
+e̱sueri	game	None	None
+kalɔɛ	tobacco pipe	None	None
+kalɔɛ	pipe-stem	None	None
+tɛba	tobacco	None	None
+ke̱naa	awe, reverence (for god)	None	None
+owureboare̱	god (supreme being)	None	None
+okisi	god (lesser), fetish (spirit)	None	None
+ɔkrɛ te̱te̱e̱	demon, evil spirit démon	None	None
+ɔkyɛmɛŋ	ghost (visible apparition)	None	None
+ɔkrɛ	soul, spirit (of living person)	None	None
+ɔkrɛ	spirit (of dead person) (invisible)	None	None
+ke̱dɛ ɔlaa	pray	None	None
+nwire	blessing	None	None
+ke̱kpe̱rɛ	divine, prophesy	Verb	None
+kpe̱rɛ	prophecy	Noun	None
+ŋwu anyɛse̱se̱ alɛ	vision (supernatural)	None	None
+akpɛse̱ŋ	witchcraft	None	None
+de̱ oyi	curse	Verb	None
+kayidɛ	curse	Noun	None
+ke̱bo̱r)	poison	Noun	None
+waa me̱ ke̱bo̱r)	poison (a person)	Verb	None
+kisimɛŋ	amulet, charm, fetish	None	None
+akisilɛ	(be) taboo	None	None
+mɔɔ sɛ ke̱sɛ	sacrifice	None	None
+dɛ ɔlaa	pour libation	None	None
+akrɛlɛ	dwelling place of the dead (spiritual)	None	None
+lɛbɔɔ	tradition, custom tradition	None	None
+kaanyɛse̱gyi	feast	Noun	None
+ke̱nye̱ne̱sɛ fe̱ ke̱gyi anyɛse̱	naming ceremony (baby)	None	None
+oyi fe̱ ke̱haye̱	circumcision (male)	None	None
+ke̱tɛkɛgyi fe̱ ke̱haye̱	excision (female)	None	None
+ke̱kye̱nɛ e̱re̱	initiation (female)	None	None
+po̱ŋ	marry	None	None
+kaabaawo̱re̱	marriage (state of wedlock)	None	None
+ke̱twii ɔkye̱e̱ fe̱ ntɛ	(be) engaged, (be) betrothed	None	None
+apo̱ŋ tɛne̱	brideprice (for bride’s family)	None	None
+gyaafɔ fe̱ ke̱hwaa	wedding (ceremony)	None	None
+ke̱gyaafɔkye̱	bride	None	None
+gyaafɔ	groom	None	None
+ke̱le̱e̱ okuri/ ɔkɛ fe̱ kaate̱rɛ	adultery	None	None
+ke̱po̱ŋ yensi	divorce	Verb	None
+kaali	funeral (at occasion of death)	None	None
+su	wail, ululate (at funeral)	Verb	None
+pɔpɔɔ	condole, comfort	Verb	None
+ke̱funi	corpse	None	None
+pure	bury	None	None
+ke̱kyɛmɛntɛŋ	grave tombe	None	None
+nkyɛŋse̱	cemetery	None	None
+kaabo̱	animal	None	None
+naare̱ nye̱ŋsɛ	bull	None	None
+naare̱ kye̱e̱sɛ	cow (female)	None	None
+naare̱ kagbire	heifer	None	None
+naare̱gbi	calf	None	None
+anaare̱	herd (of cattle)	None	None
+te̱e̱re̱	goat	None	None
+ke̱be̱rɛkpawo̱	he-goat, billy goat	None	None
+kaate̱e̱re̱nyi	she-goat, nanny goat	None	None
+kagbi	kid	None	None
+sieni	sheep	None	None
+ke̱kpe̱re̱kpe̱re̱	ram	None	None
+kaagbire	ewe	None	None
+kasienigbi	lamb	None	None
+ke̱twuu	flock (of sheep, goats)	None	None
+krɛbe̱	chicken	None	None
+kpaakpa	rooster (cock)	None	None
+be̱ŋte̱ŋ	hen	None	None
+kaake̱rɛbe̱gbi	chick	None	None
+ɔkyɛŋ	guinea fowl	None	None
+kɛɛtɛɛkɛ	duck	None	None
+yoma	camel	None	None
+kpɛŋɛ	horse	None	None
+kpɛŋɛ	stallion	None	None
+kpɛŋɛ kye̱e̱sɛ	mare (female horse)	None	None
+kaagbire	colt	None	None
+afurum	donkey	None	None
+prako	pig	None	None
+prako nye̱ŋsɛ	boar (male pig)	None	None
+prako kye̱e̱sɛ	sow (female pig)	None	None
+prako kagbire	piglet porcelet	None	None
+ɔkpo̱re̱	dog	None	None
+kakpo̱re̱- gbi	pup	None	None
+ɔtɛpo̱	cat	None	None
+katɛpo̱- gbi	kitten	None	None
+so̱re̱	elephant	None	None
+otwilɛ so̱re̱	hippopotamus	None	None
+fo̱re̱de̱	buffalo	None	None
+sɛŋɛ	warthog	None	None
+kakrɛwa	monkey	None	None
+e̱fo̱ɔ	baboon	None	?plural?
+kagyɛme̱nɛŋkɔsɔɔ	hyena	None	None
+kwakuyawo̱	jackal	None	None
+wɔnsane̱	antelope	None	None
+aprawa	pangolin	None	None
+gyaye̱	mouse	None	None
+kpaabo̱	rat	None	None
+kɛŋde̱	cane rat, cutting grass cutter	None	None
+gyaye̱	palm rat	None	None
+katuŋkuro	shrew	None	None
+d3ŋkɛntin	mole	None	None
+kɛgyɛ	mongoose	None	None
+lɔŋɛ	hare	None	None
+opuro	squirrel	None	None
+ke̱kɛsɛkɛsɛ	porcupine	None	None
+ke̱gyɛ	bat	None	None
+ke̱gyɛ	fruit bat	None	None
+e̱fɛlɛ fe̱ ɔtɛpo̱	wild cat	None	None
+koŋkoli	civet cat civette	None	None
+koŋkoli	gene	None	None
+akɔtɛme̱se̱	leopard	None	None
+ɔke̱se̱ŋkpe̱ŋ	lion	None	None
+kaabo̱ fe̱ ɔwo̱re̱	hide (of animal)	None	None
+e̱fu	fur pelage	None	None
+ke̱lɛŋ	horn	None	None
+naare̱ fe̱ le̱nyɛpo̱	udder pis	None	None
+oduu	tail	None	None
+ake̱te̱kpaa	hoof	None	None
+so̱re̱ fe̱ kaŋo̱nɛ	elephant's trunk	None	None
+so̱re̱ fe̱ ke̱nyi	elephant's tusk	None	None
+ɔbɔ	den, lair, hole	None	None
+dwɛwu	bark (as dog)	Verb	None
+nye̱ɛ anyi	bare, show (teeth)	None	None
+ŋɛmɛ	growl	None	None
+wo̱	ruminate, chew cud	None	None
+kaabo̱e̱	bird	None	None
+ŋwaaŋwaatre̱kpaa	crow	None	None
+owure/ lɛpɔ	dove	None	None
+kakɛŋhyireŋ	weaver-bird	None	None
+ako	parrot	None	None
+kyɛkpe̱rɛ	partridge	None	None
+kpaakpaafuuru	cattle egret	None	None
+ntwise̱ fe̱ akua	heron	None	None
+ke̱korikori	hornbill	None	None
+ntwise̱ fe̱ akua	pelican	None	None
+ntwise̱ fe̱ akua	stork	None	None
+sohori	ostrich	None	None
+ke̱patuo	owl	None	None
+lakpawu	eagle	None	None
+te̱ŋpɛŋ	hawk	None	None
+ke̱kpɛte̱ɛ	vulture	None	None
+ke̱te̱yɛ	feather	None	None
+ke̱bŋbaŋte̱ɛ	wing	None	None
+letuu	beak	None	None
+ke̱bɔŋ	crest (of bird)	None	None
+ke̱bɔŋ	comb (of rooster)	None	None
+ke̱dwaŋ	crop (of bird)	None	None
+ke̱kɛsaani	gizzard	None	None
+ko̱kɔtɛ	claw	None	None
+ko̱kwaakwa	egg	None	None
+ko̱kwaakwa fe̱ agyɛfo̱	eggshell	None	None
+ko̱kwaaka	yolk (of egg)	None	None
+ke̱hyaa	nest	None	None
+mbo̱e̱	flock (of birds)	None	None
+furii	fly	Verb	None
+ke̱kyaare̱ afuu	soar	None	None
+yo̱o̱	land	Verb	None
+ye̱re̱	perch	None	None
+dɛ ate̱yɛ lɛ	flap the wings	None	None
+kpɛŋ	cackle (as of chicken)	None	None
+fo̱re̱	crow (as a rooster)	Verb	None
+kyɔɔ	peck (tr)	None	None
+to̱o̱	lay (eggs)	None	None
+buŋe	incubate, set (on eggs)	None	None
+bo	hatch	None	None
+kakpɛte̱ra	fish	None	None
+kawiegyi	catfish	None	None
+okureŋ	mudfish (lives in the mud during dry season)	None	None
+ke̱te̱ŋkpaa	eel	None	None
+owu	fish bone	None	None
+kakpɛte̱ra fe̱ agyɛfo̱	fish-scale	None	None
+afo̱fo̱e̱	gill	None	None
+owu	fin	None	None
+kɔtɔkɔɔ	crab	None	None
+nwa kwekwe	clam	None	None
+ke̱pebore	snail	None	None
+ke̱nɛŋɛ	snake	None	None
+safe̱yɛ	spitting cobra	None	None
+ke̱be̱nɛ	puff adder	None	None
+onini	python	None	None
+kabrawɛɛ	green mamba	None	None
+ke̱re̱e̱	lizard	None	None
+bo̱rɛŋ	agama lizard (red-headed)	None	None
+odekireke	chameleon	None	None
+kabo̱rabo̱rake̱e̱	gecko	None	None
+taare̱	monitor lizard	None	None
+ɔkpaawo̱	crocodile	None	None
+ke̱ke̱re̱	frog	None	None
+ke̱tɛdwɔɔ	toad	None	None
+kwataa	tortoise (land)	None	None
+ke̱nɛŋɛ fe̱ anyi	fang (of snake)	None	None
+ke̱bo̱r)	venom (of snake)	None	None
+ke̱gbaanɛ fe̱ ke̱bɔŋbɔŋ	shell (of turtle)	None	None
+ke̱nɛŋɛ fe̱ anyɛse̱	slither (snake)	None	None
+nɛre̱	crawl (lizard)	None	None
+kaabo̱	insect	None	None
+ke̱lo̱bo̱	bedbug	None	None
+ke̱sunsɔɔ	maggot (in rotten meat)	None	None
+ke̱tɛpe̱rɛde̱	cockroach	None	None
+dunkpie	ant	None	None
+nke̱rane̱e̱	army ant, soldier ant	None	None
+dunkpie bo̱ ate̱ɛ	flying ant	None	None
+bɔre̱	termite	None	None
+ananse̱e̱	spider	None	None
+fɛhɛɛ	tarantula	None	None
+pɔɔte̱	scorpion	None	None
+ke̱minideminide	dung beetle	None	None
+ke̱tɛke̱nɛ	grasshopper	None	None
+pɛndɛ	cricket	None	None
+akyɛŋkyɛŋka	locust locuste	None	None
+kɔŋkɔŋte̱	praying mantis	None	None
+ke̱to̱saa	caterpillar	None	None
+ŋiniŋini kpasie	centipede	None	None
+ŋiniŋini	millipede	None	None
+gyireŋ	earthworm	None	None
+furii	fly	Noun	None
+kato̱ŋto̱ŋ	mosquito	None	None
+kyaare̱	bee	None	None
+ke̱baake̱te̱ɛlo̱o̱	butterfly	None	None
+ke̱baake̱te̱ɛlo̱o̱	moth	None	None
+duŋ	sting	Verb	None
+oduŋsɛ	stinger dard	None	None
+nte̱ŋtŋŋ	spider's web	None	None
+kisi	termite hill	None	None
+kyaare̱ fe̱ abɔ	beehive	None	None
+afafaa	beeswax, bee-bread	None	None
+kyaare̱ -twi	honey	None	None
+ke̱kyuu	swarm	Noun	None
+oyi	tree	None	None
+ɔlo̱o̱	mahogany tree	None	None
+ke̱kɛre̱	baobab tree	None	None
+ke̱kɛre̱	silk-cotton tree, kapok tree	None	None
+ke̱ke̱re̱ŋwu	shea-butter tree, shea-nut tree	None	None
+fiigi fe̱ oyi	fig tree	None	None
+okpɛwu	thorn-tree	None	None
+kaabɛ	oil palm	None	None
+kube	coconut palm	None	None
+e̱fɛlɛ fe̱ kaabɛ	raffia palm	None	None
+e̱fɛlɛ fe̱ kaabɛ	date palm	None	None
+e̱fɛle̱	bush	None	None
+e̱fɛ	grass	None	None
+pampuro	bamboo	None	None
+ke̱kɛtɛ	reed	None	None
+e̱fɛ	weeds	None	None
+ke̱fraa	leaf	None	None
+kaalɛŋ	branch (of tree)	None	None
+ke̱gyɛkpɛŋtin	trunk (of tree)	None	None
+ke̱gyɛfo̱	bark (of tree)	None	None
+nnyɛnfɔ	sap	None	None
+ke̱yintiŋ	stump	None	None
+oaliŋ	root	None	None
+buroyooyi	stem, stalk (of maize, millet, etc)	None	None
+mburi	silk, hair (of maize)	None	None
+e̱fɛ fe̱ letuu	blade (of grass)	None	None
+afuru	flower	None	None
+e̱dɛ anyɛse̱	bud	None	None
+kɔɔ	shoot (new plant)	None	None
+oyi	vine	None	None
+owu	thorn	None	None
+be̱rɛ	palm branch, frond	None	None
+paapaa	midrib of palm-frond	None	None
+kabɛ	palm needle	None	None
+ntwi	juice	None	None
+ke̱bu	stone	None	None
+buroyooyi	corn cob	None	None
+buroyooyi	kernel (of corn, maize)	None	None
+ke̱gbi	seed	None	None
+e̱yo̱o̱	skin (of fruit)	None	None
+agyɛfo̱	shell (of groundnut)	None	None
+buroyoo fe̱ afe̱raa	corn husk	Noun	None
+ato̱o̱	chaff	None	None
+agbi	fruit	None	None
+bɔɔde̱ɛ	plantain	None	None
+dube	lemon	None	None
+ankaye̱	orange	None	None
+bobe fe̱ agbi	grapefruit	None	None
+bo̱r)fe̱rɛ	pawpaw, papaya	None	None
+ke̱be̱rɛbɛ	pineapple	None	None
+oguwa	guava	None	None
+paya	avocado	None	None
+fiigi	fig	None	None
+e̱fɛlɛ fe̱ kaabɛ	date	None	None
+toosi	tomato	None	None
+gyaabu	onion	None	None
+gyaabu kɛŋkɛŋ	garlic	None	None
+ko̱raa	pepper (green)	None	None
+ko̱raa	red pepper, hot pepper	None	None
+nkpinii	okra	None	None
+akpiŋ	egg-plant	None	None
+atwuurii	mushroom	None	None
+bankye̱	cassava	None	None
+mankeni	cocoyam	None	None
+kidwe	yam	None	None
+deŋkele	sweet potato	None	None
+deŋkele	potato	None	None
+broyoo	maize, corn	None	None
+yaabra	millet (rainy season)	None	None
+awi	sorghum (dry season)	None	None
+yaabra	guinea corn	None	None
+e̱mɔ	rice	None	None
+bo̱rɛdɛ	groundnut, peanut	None	None
+lɛmpare̱	sesame seed	None	None
+kaabihye	cola nut	None	None
+abɛ	palm nut	None	None
+ahwe̱de̱ɛ	sugar cane	None	None
+e̱surii	cotton	None	None
+dɛŋ	grow (of plants)	None	None
+kɔɔ	sprout	Verb	None
+pe̱yɛ	(be) ripe	None	None
+pe̱yɛ	ripen, become ripe	None	None
+buriŋbu	(be) unripe	None	None
+gbesɛ	(be) rotten	None	None
+ŋwe̱ɛŋwe̱ɛ	(be) shrivelled, (be) wrinkled	None	None
+yaa	wither (plant)	None	None
+e̱yi fe̱ ko̱lɔ	blight	Noun	None
+e̱wiasɛ	world	None	None
+tre̱ko̱	place endroit	None	None
+ɔye̱e̱	desert	None	None
+e̱fɛ fe̱ ɔso̱o̱re̱	grassland	None	None
+ke̱po̱	forest	None	None
+kapirawu	open place, clearing	None	None
+ɔmaŋ to̱to̱	bush country, rural area	None	None
+ɔso̱o̱rɛ	ground, land	None	None
+ke̱be̱e̱	mountain	None	None
+ɔso̱so̱	summit, highest point	None	None
+ɔtwe̱twe̱bo̱e̱	cliff	None	None
+ke̱mɛŋtɛŋ	valley	None	None
+ɔbɔ	ditch	None	None
+ke̱kyɛbɔɔ	pit	None	None
+ke̱fo̱re̱bɔ	cave	None	None
+ke̱fo̱re̱	rock (large)	None	None
+ke̱bu	stone (small)	None	None
+agyaakpɛ	gravel	None	None
+e̱e̱se̱	sand	None	None
+ke̱se̱pui	dust	None	None
+e̱wisi	dirt, soil	None	None
+mbo	clay	None	None
+adɔɔre̱e̱	mud	None	None
+ke̱daraa	iron	None	None
+atɛne̱ kɔkɔɔ	gold	None	None
+atɛne̱ fufuri	silver	None	None
+ŋkɛŋdo̱r)	rust	Noun	None
+ntwi	water	None	None
+ɔpo̱o̱	ocean, sea	None	None
+ke̱pɛre̱	lake	None	None
+ke̱pɛre̱	pool	None	None
+ke̱pɛre̱	waterhole	None	None
+ke̱miribi	marsh	None	None
+kabo̱ŋgbi	spring	None	None
+ke̱fo̱re̱bɔ lɛ fe̱ ntwi	waterfall	None	None
+ɔbo̱ŋ	brook, stream	None	None
+ɔbo̱ŋ	river	None	None
+ntwi fe̱ ke̱twe̱ŋ	current (river, stream)	None	None
+mtwi fe̱ kaase̱	riverbed (dry)	None	None
+ɔbo̱ŋkaa	river bank	None	None
+afo̱re̱se̱	ford	Noun	None
+ɔtwe̱ne̱	bridge	None	None
+ntwi se̱ fe̱ ɔso̱o̱re̱	island	None	None
+ɔpo̱o̱kaa	beach	None	None
+otwisaa	wave	None	None
+afuruu	foam	None	None
+ɔgyɛ	fire	None	None
+ke̱gyɛfe̱e̱fe̱e̱	flame	None	None
+twi	spark	None	None
+ɔgyɛsii	smoke	None	None
+ɔgyɛwaakpa	fireplace	None	None
+nguɛ	firewood	None	None
+dundui	charcoal	None	None
+nsɔ	ashes	None	None
+ɔso̱so̱	sky	None	None
+afuu	air (breathed) air	None	None
+awo̱re̱e̱	cloud	None	None
+nye̱ŋkpiŋ- naare̱	rainbow	None	None
+ɔfo̱rɛ	moon	None	None
+ɔfo̱rɛ mumuu	full moon	None	None
+ɔfo̱rɛ pɔpɔɔ	new moon	None	None
+ke̱kyɛkpɔɔgbi	star	None	None
+akyɛkpɔɔgbi	pleiades	None	None
+akyɛkpɔɔgbi	big dipper,, great bear	None	None
+akyɛkpɔɔgbi	orion	None	None
+alawo̱	noise, sound	Noun	None
+afuu	wind	Noun	None
+ke̱kyɛŋkpɛ	harmattan	None	None
+bo̱are̱ fe̱ ke̱faa	thunder	None	None
+e̱lɛlɛɛ	lightning	None	None
+bo̱are̱	rain	None	None
+do̱o̱	drizzle	None	None
+obotwi	dew	None	None
+otwibuŋ	flood	Noun	None
+nuu	dry up, el	None	None
+ke̱kyɛŋkpɛ	drought	None	None
+ke̱be̱e̱	season	None	None
+twowu	rainy season	None	None
+owuse̱	dry season	None	None
+ke̱po̱ŋpo̱ŋ lɛ	hot weather	None	None
+afuu lɛ	cold weather	None	None
+ke̱lɛŋɛ	light	None	None
+owu fe̱ ke̱saa	sunshine	None	None
+ɔfo̱rɛ fe̱ ke̱lɛŋɛ	moonlight	None	None
+ke̱ye̱ŋ	shadow	None	None
+e̱sum	darkness	None	None
+ke̱be̱e̱	time	None	None
+ke̱be̱e̱ maa lɛ	now	None	None
+ansɛŋ	before	None	None
+kaatrɛ	after	None	None
+nte̱ŋ	early	None	None
+ka kaatrɛ	late	None	None
+ke̱kyɛɛ ko̱o̱re̱	once	None	None
+we̱ɛ	again	None	None
+nka ko̱	sometimes	None	None
+kyaa	often	None	None
+kyaa	usually	None	None
+dabiara	always	None	None
+fe̱ awe̱ɛ	never	None	None
+e̱ two̱ŋ lɛ	spend time, pass time	None	None
+kaaka	day	None	None
+ɔfo̱rɛ	month	None	None
+kaasu	year	None	None
+ndɛ	today	None	None
+ndie	yesterday	None	None
+nkaane̱e̱	day before yesterday	None	None
+ɔka	tomorrow	None	None
+ɔkraye̱	day after tomorrow	None	None
+mbe̱e̱ de̱a	olden times	None	None
+nde̱baake̱nɛ	dawn (before sunrise)	None	None
+dre̱se̱	sunrise	None	None
+dre̱se̱	morning	None	None
+mpɛse̱	noon	None	None
+mpɛse̱	afternoon	None	None
+nde̱pɔɔse̱	sunset	None	None
+kaanyeŋ	dusk, twilight (after sunset)	None	None
+kaaye̱	daytime	None	None
+kaanyeŋ	night	None	None
+alɛ ko̱	thing	None	None
+ke̱bɛgyɛ	piece	None	None
+ɔso̱so̱	top	None	None
+kaase̱	bottom	None	None
+anyɛse̱lɛ	front (of something)	None	None
+kaatrɛ	back (of something)	None	None
+e̱krɛko̱	side (of something)	None	None
+nse̱ne̱	middle	None	None
+kaanɔse̱	edge	Noun	None
+ba	come	None	None
+nɛre̱	go	None	None
+nii be̱nɛ	approach	None	None
+fo̱	arrive	None	None
+kɛ	remain, stay	None	None
+nɛre̱	leave (place) quitter	None	None
+buŋi	return, go back	None	None
+gyiriyi	go round	None	None
+lue lɛ	enter, go in	None	None
+tii	come (or go) out, exit	None	None
+yɛ ɔso̱so̱	ascend, go up	None	None
+yo̱o̱	descend, go down	None	None
+le̱e̱tɔɔ	fall (intr)	None	None
+wuri	swing , go back and forth	Verb	None
+hyirei	slide	None	None
+miride	roll	None	None
+kyɛŋɛ	spread (disease, fire)	None	None
+paa	burst	None	None
+ŋaa	disappear	None	None
+nte̱ŋ	(be) fast	None	None
+dwe lɛ	(be) slow	None	None
+ɔsaa se̱	hasten, hurry	None	None
+taa/ sɔɔ	take	None	None
+gyɛsɔ	snatch, seize	None	None
+kyire	catch (object in air)	None	None
+taa	pick up	None	None
+krɛ	hold	None	None
+yɛse̱	raise, lift	None	None
+yɛŋsile	drop (tr)	None	None
+to̱o̱	throw	None	None
+to̱o̱	shoot	Verb	None
+we̱e̱ we̱ase̱	knock down, knock over (an object)	None	None
+dane̱	turn over (tr)	None	None
+hwe̱ɛ	pull	None	None
+hwe̱ɛ	drag	None	None
+nii	push	None	None
+kii	steer	Verb	None
+two̱ŋ	overtake, pass (tr)	None	None
+gyiriyi	surround	None	None
+dakpale̱	twist	None	None
+bɔɔlɛ	fold	Verb	None
+bɔɔlɛ	coil (rope)	Verb	None
+bo̱ kpe̱rɛ	hang up	None	None
+boi lɛ	spread out (maize)	None	None
+hwe̱ɛ lɛ	stretch	None	None
+we̱e̱	hit, strike frapper	None	None
+be̱e̱	beat	None	None
+we̱e̱	bump , knock against	Verb	None
+hwe̱hwaa/ kyini	rub	None	None
+nwaarɛ/ kpe̱re̱	scratch	Verb	None
+kpie/ dɛ yii	pierce	None	None
+te̱ke̱	tear (tr)	None	None
+lɔɔ	strip off (bark)	None	None
+nyaŋlɛ	squeeze	None	None
+bue	crush (tr)	None	None
+bɔ	create, make	None	None
+gbaa	break (tr)	None	None
+kyikye	(be) ruined, (be) spoiled	None	None
+baraa	join, put together	None	None
+muabaa	gather	None	None
+kelɛ	divide, separate (tr)	None	None
+fɛnuɛŋ	scatter (tr)	None	None
+to̱o̱ be̱e̱	throw away, get rid of	None	None
+bo̱ yaase̱	put, place, set	None	None
+yɛŋsi	leave (something somewhere)	None	None
+kɔɔlɛ	keep, save	None	None
+kɔɔlɛ	hide (tr)	None	None
+e̱ dɛ fe̱	lose (tr)	None	None
+kpaare̱	look for	None	None
+ŋwu	find	None	None
+kyaare̱	blow (of wind)	Verb	None
+fui	fan	Verb	None
+two̱ŋ	flow	None	None
+do̱o̱	drip	None	None
+kyɛ	leak	Verb	None
+ŋwɛnyɛŋ	sprinkle	None	None
+pe̱e̱re̱	smear (tr)	None	None
+pɔɔrɛ	soak	None	None
+fe̱rɛ	dry out (clothes)	None	None
+de̱ anyɛse̱	sink	Verb	None
+taa	drown (intr)	None	None
+lɛyɛ	shine	None	None
+kpi	fade	None	None
+lɛyɛ	(be) bright	None	None
+ke̱lɛyɛ	light (fire)	Verb	None
+duŋ	quench, extinguish	None	None
+wɔɔ gyɛ	burn (intr)	None	None
+ŋwe̱ye̱	melt (intr)	None	None
+le̱e̱ kaase̱	begin	None	None
+ke̱le̱e̱ kaase̱	beginning commencement	None	None
+kyɛse̱	continue, resume	None	None
+ɔkaa	end	Noun	None
+yeŋsi	cease, stop	None	None
+trɛ	finish, complete	Verb	None
+okpoŋkpuŋ	(be) big	None	None
+kato̱to̱o̱	(be) small	None	None
+ke̱te̱ŋse̱	diminish	None	None
+ɔso̱so̱	(be) high	None	None
+kaase̱	(be) low	None	None
+e̱swe̱e̱/ te̱ŋte̱ŋ	(be) long	None	None
+katiŋtiŋ	(be) short	None	None
+kpeŋkpin	(be) fat, (be) thick	None	None
+wo̱re̱	(be) thin	None	None
+boyi lɛ	widen	None	None
+kyeŋkyeŋ	(be) deep	None	None
+boŋboŋ	(be) hollow	None	None
+ke̱poŋ	swell (intr)	None	None
+kyirelele	(be) straight	None	None
+ŋwɔŋ	bend, crook, curve	Noun	None
+e̱ bo̱ dui	(be) heavy	None	None
+e̱dui	weight	None	None
+hɛre̱hɛre̱	(be) light (not heavy)	None	None
+e̱yɛ	(be) sharp	None	None
+yɛ	sharpen (knife)	None	None
+twe̱re̱twe̱re̱	sharpen, bring to point (arrow)	None	None
+kuŋ	(be) blunt, dull	None	None
+e̱kwaa	(be) hard	None	None
+bo̱ kwaa	harden	None	None
+nɛmɔɔ	(be) soft	None	None
+nɛmɔɔ	soften	None	None
+wo̱re̱	(be) dry	None	None
+pɔɔ	(be) wet	None	None
+kpɛre̱	(be) slippery	None	None
+e̱fufuri	(be) white	None	None
+e̱bibii	(be) black	None	None
+e̱kɔkɔɔ	(be) red	None	None
+be̱rɛbe̱rɛ	(be) blue	None	None
+ke̱fe̱ra bɔbɔɔ	(be) green	None	None
+ke̱rɛbe̱ fe̱ mfɔ	(be) yellow	None	None
+e̱sum	(be) dark (colour)	None	None
+ɔdɛɛ	(be) sweet	None	None
+e̱nyɛŋ	(be) sour	None	None
+ɔkra	(be) bitter	None	None
+ɔhwɛ	odour, smell	Noun	None
+ke̱bo̱ŋ	stink, smell (bad)	None	None
+de̱ɛ bɔɔ	(be) able (to)	None	None
+e̱kwaakwaasɛ	(be) strong (physically)	None	None
+e̱kwaakwaasɛ	strength	None	None
+bɔre̱	(be) weak (être)	None	None
+ke̱fɛŋɛ	splendour, glory	None	None
+e̱tima	(be) good	None	None
+e̱bɔe̱ŋ	(be) bad	None	None
+nnyire	truth	None	None
+kre̱kre̱	(be) perfect	None	None
+e̱bɔe̱ŋ	(be) wrong (avoir)	None	None
+e̱fɛɛ	(be) beautiful	None	None
+e̱nuaa	(be) ugly	None	None
+e̱yo̱o̱ e̱te̱ŋ	(be) clean	None	None
+e̱wisi	(be) dirty	None	None
+e̱pɔpɔɔ	(be) new	None	None
+e̱de̱daa	(be) old (not new)	None	None
+ɔko̱o̱re̱	one (1)	None	None
+anwe	two (2)	None	None
+asɛ	three (3)	None	None
+anɛ	four (4)	None	None
+anuu	five (5)	None	None
+ahye	six (6)	None	None
+asunɔɔ	seven (7)	None	None
+atwe	eight (8)	None	None
+akpɔnɔɔ	nine (9)	None	None
+ko̱du	ten (10)	None	None
+ko̱du ne̱ ɔko̱	eleven (11)	None	None
+ko̱du ne̱ anwe	twelve (12)	None	None
+ko̱du ne̱ asɛ	thirteen (13)	None	None
+ko̱du ne̱ anɛ	fourteen (14)	None	None
+ko̱du ne̱ anuu	fifteen (15)	None	None
+ko̱du ne̱ ahye	sixteen (16)	None	None
+ko̱du ne̱ asunɔɔ	seventeen (17)	None	None
+ko̱du ne̱ atwe	eighteen (18)	None	None
+ko̱du ne̱ akpɔnɔɔ	nineteen (19)	None	None
+aduenwe	twenty (20)	None	None
+aduenwe ne̱ ɔko̱	twenty-one (21)	None	None
+aduenwe ne̱ anwe	twenty-two (22)	None	None
+aduesɛ	thirty (30)	None	None
+aduenɛ	forty (40)	None	None
+aduenu	fifty (50)	None	None
+aduehye	sixty (60)	None	None
+aduesɔnɔɔ	seventy (70)	None	None
+aduetwe	eighty (80)	None	None
+aduekpɔnɔɔ	ninety (90)	None	None
+ke̱lɛfɛ	hundred (100)	None	None
+alɛfɛ anwe	two hundred (200)	None	None
+e̱gyɛŋkpaapo̱	(be) first	None	None
+ɔnwese̱	(be) second	None	None
+ɔsɛse̱	(be) third	None	None
+sii katrɛ	(be) last	None	None
+baara	add	None	None
+te̱ŋ tii lɛ	subtract, take away	None	None
+te̱ŋ se̱	decrease (intr)	None	None
+krɛ	count	Verb	None
+hye̱hyɛ	arrange arranger	None	None
+pɛ	(be) equal	None	None
+bo̱re̱	(be) abundant	None	None
+e̱twɛ	enough	None	None
+ɔme̱ŋ dɛ	lack	Verb	None
+pɛɛ	all	None	None
+e̱twɛ	many	None	None
+kpaatii	few	None	None
+ke̱tiŋ	half	None	None
+omumuu	whole	None	None
+ɔkama	everybody	None	None
+e̱kama	everything	None	None
+tre̱kama	everywhere	None	None
+ne̱ obiara	nobody	None	None
+ne̱ hwe̱e̱	nothing	None	None
+me̱	i	None	None
+fe̱	you (masc, sing)	None	None
+me̱	he (human)	None	None
+ane̱	we (incl)	None	None
+fe̱	you (pl)	None	None
+ame̱	they (human)	None	None
+nfe̱e̱	here	None	None
+nfo̱ŋ	there	None	None
+nno̱o̱no̱o̱	far	None	None
+be̱ne̱ lɛ	near	None	None
+anwuse̱	north	None	None
+ayaase̱	south	None	None
+owu tiikpa	east	None	None
+owu tɔɔkpa	west	None	None
+ɔso̱so̱	up	None	None
+kaase̱	down	None	None
+anyɛse̱lɛ	forward (direction)	None	None
+kaatrɛ	backward (direction)	None	None
+ke̱neyire se̱	right (direction)	None	None
+ke̱be̱nɛ se̱	left (direction)	None	None
+ɔso̱so̱	over, above	None	None
+kaase̱	under, below	None	None
+anuɛse̱lɛ	in front of, before	None	None
+kaatrɛ	behind	None	None
+ɔkrɛko̱	beside	None	None
+ɔlɔlɛ	inside	None	None
+nse̱ne̱	between	None	None
+ko̱se̱ mfo̱ŋ	away from	None	None
+ɔnye̱ne̱ maa	this (man)	None	None
+ɔnye̱ne̱ nɛme̱	that (man)	None	None
+anye̱ne̱ ko̱	some (men)	None	None
+anye̱ne̱ bɛŋbɛŋ	other (men)	None	None
+ɔmo̱ŋ	who	None	None
+me̱nɛŋ	what	None	None
+e̱mo̱ŋ	which (one)	None	None
+mfe̱ne̱ŋ	where	None	None
+ke̱be̱e̱ mo̱ŋ	when	None	None
+me̱nɛ se̱ ne̱ŋ	why	None	None
+ne̱	and	None	None
+mɔɔ	if	None	None
+e̱twi fe̱ɛ	because	None	None
+nnyire	really, truly	None	None
+doo	only	None	None
+waye̱	yes	None	None
+daabi	no	None	None
